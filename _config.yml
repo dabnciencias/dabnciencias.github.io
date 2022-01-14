@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Inicio"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Diego Alberto Barceló Nieves"
 description              : &description "Estudiante de posgrado en el Instituto de Matemáticas, UNAM"
