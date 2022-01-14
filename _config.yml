@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Diego Alberto Barceló Nieves"
-description              : &description "Estudiante de posgrado en el Instituto de Matemáticas, UNAM"
+description              : &description "Master's student in Mathematics at UNAM"
 url                      : https://dabnciencias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dabnciencias/dabnciencias.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Diego Alberto Barceló Nieves"
-  avatar           : "profile.png"
-  bio              : "Estudiante de posgrado en el Instituto de Matemáticas, UNAM"
-  location         : "Ciudad de México, México"
+  avatar           : "profile.jpg"
+  bio              : "Master's student at the Institute of Mathematics, UNAM"
+  location         : "Mexico City, Mexico"
   employer         : 
   pubmed           : 
   googlescholar    : 
