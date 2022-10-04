@@ -8,7 +8,7 @@ date: 2022-02-14
 location: "Mexico City"
 ---
 
-I am currently developing material for an undergraduate Computational Algorithms course which will start on February 14th, 2022. The course materials (in Spanish) will be made available in [this repository](https://github.com/dabnciencias/AC).
+I taught a Computational Algorithms course (online) during the Spring semester. Course materials such as the syllabus, interactive notebooks, and project assignments are available (in Spanish) in [this repository](https://github.com/dabnciencias/AC).
 
 #Heading 1
 #======
