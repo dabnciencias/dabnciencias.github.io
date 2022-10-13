@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Biomedical Physics (Biological Sciencies), National Autonomous University of Mexico (UNAM), 2019
-* M.Sc. in Mathematics, UNAM, 2022
+* B. Sc. in Biomedical Physics (Biological Sciencies), National Autonomous University of Mexico (UNAM), 2019
+* M. Sc. in Mathematics, UNAM, 2022
 
 Work experience
 ======
