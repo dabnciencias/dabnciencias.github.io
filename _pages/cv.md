@@ -11,31 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Biomedical Physics (Biological Sciencies), National Autonomous University of Mexico (UNAM), 2019
+* M.Sc. in Mathematics, UNAM, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Computational Algorithms Teacher (2022)
+  * Faculty of Sciencies, UNAM
+  * Duties included: Course design, course material creation (interactive notebooks), examination design
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Linea Algebra Teacher (2020-2021)
+  * Faculty of Sciencies, UNAM
+  * Duties included: Course design, course material creation (lecture notes), examination design
+
+* Research Assistant (2018-2019)
+  * Faculty of Sciencies, UNAM
+  * Duties included: Numerical implementation, software development, seminar presentations
+  * Supervisor: Dr. Alejandro Reyes Coronado
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* LaTeX, Linux and Git
+* Programming
+  * Julia/Python (Advanced)
+  * C/C++ and Haskell (Intermediate)
+  * Elm and Rust (Basic)
+* Languages
+  * Spanish (Native)
+  * English (Bilingual)
+  * Portuguese (Fluent)
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteered in adult literacy campaigns in rural Mexico (2013-2015)
+* Volunteered in popular education projects teaching middle school Mathematics to teenagers in disadvantaged neighborhoods (2016-2017).
+* Leads a development team that creates educational Linear Algebra videos unsing programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/) (2021-present)

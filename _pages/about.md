@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student enrolled in the Mathematical Sciences Graduate Program at the National Autonomous University of Mexico (UNAM). My main areas of interest are Homological Algebra and Algebraic Topology. I am currently working on a thesis titled _Una introducción a las categorías extrianguladas_ ("An Introduction to Extriangulated Categories", in English) under the supervision of [Dr. Octavio Mendoza Hernández](https://www.matem.unam.mx/fsd/omendoza), who works at UNAM's Institute of Mathematics (IMATE).
+I am a M. Sc. in Mathematics with a B. Sc. in Biomedical Physics by the National Autonomous University of Mexico (UNAM). My main areas of interest are Homological Algebra and Algebraic Topology. You can check my Master's Thesis [here](javascript:open_window("https://tesiunam.dgb.unam.mx:443/F/UECLCY6TT4XAQKD37J6SJDSGIQ9Q48Q4B6NRUK4NTLKM482RJ8-04436?func=service&doc_library=TES01&doc_number=000831398&line_number=0001&func_code=WEB-FULL&service_type=MEDIA%22);).
 
-I am also interested in education. I regularly teach undergraduate courses at UNAM's Faculty of Sciences, and I am currently involved with the animation group [Animathica](https://github.com/animathica) in a project where I collaborate with a group of undergraduate students from said Faculty to create [Linear Algebra videos](https://www.youtube.com/watch?v=7oO6xXpaTLk&list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl).
+I am also interested in Education. I regularly teach undergraduate courses at UNAM's Faculty of Sciences, and I am currently involved with the animation group [Animathica](https://github.com/animathica) in a project where I collaborate with a group of undergraduate students from said Faculty to create [Linear Algebra videos](https://www.youtube.com/watch?v=7oO6xXpaTLk&list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl).
 
 I am also a music enthusiast, and I write, record and produce [my own music](https://www.youtube.com/watch?v=6rM7Q_QrzQk).
 
