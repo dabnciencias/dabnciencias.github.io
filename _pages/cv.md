@@ -62,5 +62,5 @@ Teaching
 Service and leadership
 ======
 * Volunteered in adult literacy campaigns in rural Mexico (2013-2015)
-* Volunteered in popular education projects teaching middle school Mathematics to teenagers in disadvantaged neighborhoods (2016-2017).
-* Leads a development team that creates educational Linear Algebra videos unsing programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/) (2021-present)
+* Volunteered in popular education projects teaching middle school Mathematics to teenagers in disadvantaged neighborhoods (2016-2017)
+* I lead a development team that creates educational Linear Algebra videos unsing programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/) (2021-present)
