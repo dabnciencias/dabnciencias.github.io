@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Diego Alberto Barceló Nieves"
-description              : &description "M. Sc. in Mathematics and B. Sc. in Biomedical Physics, UNAM"
+description              : &description "M. Sc. in Mathematics & B. Sc. in Biomedical Physics, UNAM"
 url                      : https://dabnciencias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dabnciencias/dabnciencias.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Diego Alberto Barceló Nieves"
   avatar           : "profile.jpg"
-  bio              : "M. Sc. in Mathematics and B. Sc. in Biomedical Physics, UNAM"
+  bio              : "M. Sc. in Mathematics & B. Sc. in Biomedical Physics, UNAM"
   location         : "Mexico City, Mexico"
   employer         : 
   pubmed           : 
