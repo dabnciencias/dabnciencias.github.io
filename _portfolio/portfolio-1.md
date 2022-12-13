@@ -1,9 +1,9 @@
 ---
-title: "Orthogonalization and Orthonormalization (Gram-Schmidt Theorem)"
-excerpt: "Video illustrating the [orthogonalization and orthonormalization](https://www.youtube.com/watch?v=7oO6xXpaTLk&list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl&index=1&ab_channel=Animathica) processes in finite dimensional inner product spaces, and explaining the Gram-Schmidt Theorem."
+title: "Inner Product, Orthogonal Bases and Vector Projections"
+excerpt: "Video which [introduces the inner product as an operation that allows us to solve the problem of &quot;finding coefficients&quot;](https://www.youtube.com/watch?v=GxcXCLAiQO0&list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl&index=1) in finite-dimensional vector spaces in a simple and scalable manner through the use of orthogonal bases, and then uses this result to give a [geometric interpretation of the inner product](https://youtu.be/GxcXCLAiQO0?t=883)."
 collection: portfolio
 ---
 
-{% include youtube.html id="7oO6xXpaTLk" %}
+{% include youtube.html id="GxcXCLAiQO0" %}
 
-This video illustrates the orthogonalization and orthonormalization processes in finite dimensional inner product spaces, while also explaining the Gram-Schmidt Theorem. The writing and narration was done in Spanish but English subtitles are also available. It was produced in collaboration with [Animathica](https://www.youtube.com/channel/UCzkyH2bxpesubzc87VxqDiA); the script and animation code can be found in [this repository](https://github.com/animathica/alganim).
+This video introduces the inner product as an operation that allows us to solve the problem of &quot;finding coefficients&quot; in finite-dimensional vector spaces in a simple and scalable manner through the use of orthogonal bases; a geometrical interpretation of the inner product is then presented. The writing and narration was done in Spanish but English subtitles are also available. It was produced in collaboration with [Animathica](https://www.youtube.com/channel/UCzkyH2bxpesubzc87VxqDiA); the video script and animation code can be found in [this repository](https://github.com/animathica/alganim/tree/main/1).

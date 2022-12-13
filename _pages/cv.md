@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B. Sc. in Biomedical Physics (Biological Sciencies), National Autonomous University of Mexico (UNAM), 2019
-* M. Sc. in Mathematics (with honorific mention), UNAM, 2022
+* M. Sc. in Mathematics (with honorific mention), National Autonomous University of Mexico (UNAM), 2022
+* B. Sc. in Biomedical Physics (in Biological Sciencies), UNAM, 2019
 
 Work experience
 ======
-* Computational Algorithms Teacher (2022)
+* Computational Algorithms Teacher (2022-2023)
   * Faculty of Sciencies, UNAM
-  * Duties included: Course design, course material creation (interactive notebooks), examination design
+  * Duties included: Course design, course material creation ([interactive notebooks](https://github.com/dabnciencias/AC)), examination design
 
 * Linea Algebra Teacher (2020-2021)
   * Faculty of Sciencies, UNAM
-  * Duties included: Course design, course material creation (lecture notes), examination design
+  * Duties included: Course design, course material creation ([lecture notes](https://github.com/dabnciencias/AL/blob/master/Notas/apuntes.pdf)), examination design
 
 * Research Assistant (2018-2019)
   * Faculty of Sciencies, UNAM
-  * Duties included: Numerical implementation, software development, seminar presentations
+  * Duties included: Implementation of numerical methods, software development, seminar presentations
   * Supervisor: Dr. Alejandro Reyes Coronado
 
 Skills
@@ -61,6 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Volunteered in adult literacy campaigns in rural Mexico (2013-2015)
+* Volunteers in a development team that creates [educational Linear Algebra videos](https://www.youtube.com/watch?v=-VJ7h8-GbHU&list=PL91agCMqt_mfPlTgR8zmguMZIpGV0Jflj) using programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/), working as creative director, writer, animator, narrator and editor (2021-present)
 * Volunteered in popular education projects teaching middle school Mathematics to teenagers in disadvantaged neighborhoods (2016-2017)
-* I currently lead a development team that creates [educational Linear Algebra videos](https://www.youtube.com/watch?v=-VJ7h8-GbHU&list=PL91agCMqt_mfPlTgR8zmguMZIpGV0Jflj) using programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/) (2021-present)
+* Volunteered in adult literacy campaigns in rural Mexico (2013-2015)
