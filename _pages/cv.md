@@ -18,7 +18,7 @@ Work experience
 ======
 * Computational Algorithms Teacher (2022-2023)
   * Faculty of Sciencies, UNAM
-  * Duties included: Course design, course material creation ([interactive notebooks](https://github.com/dabnciencias/AC)), examination design
+  * Duties included: Course design, course material creation ([interactive notebooks](https://github.com/dabnciencias/AC) and [lecture recordings](https://www.youtube.com/playlist?list=PLtoBPDPjYod54trSakX0zW2AQPi9eevXm)), examination design
 
 * Linea Algebra Teacher (2020-2021)
   * Faculty of Sciencies, UNAM
