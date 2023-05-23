@@ -34,8 +34,7 @@ Skills
 * LaTeX, Linux and Git
 * Programming
   * Julia/Python (Advanced)
-  * C/C++ and Haskell (Intermediate)
-  * Elm and Rust (Basic)
+  * Elm and Haskell (Intermediate)
 * Languages
   * Spanish (Native)
   * English (Bilingual)
@@ -61,6 +60,6 @@ Teaching
   
 Service and leadership
 ======
-* Volunteers in a development team that creates [educational Linear Algebra videos](https://www.youtube.com/watch?v=-VJ7h8-GbHU&list=PL91agCMqt_mfPlTgR8zmguMZIpGV0Jflj) using programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/), working as creative director, writer, animator, narrator and editor (2021-present)
+* Volunteers in a development team that creates [educational Linear Algebra videos](https://www.youtube.com/watch?v=VY7ATrauc34&list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl&pp=iAQB) using programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/), working as creative director, writer, animator, narrator and editor (2021-present)
 * Volunteered in popular education projects teaching middle school Mathematics to teenagers in disadvantaged neighborhoods (2016-2017)
 * Volunteered in adult literacy campaigns in rural Mexico (2013-2015)
