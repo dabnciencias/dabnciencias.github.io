@@ -16,13 +16,17 @@ Education
 
 Work experience
 ======
+* Modern Algebra I Teacher (2023)
+  * Faculty of Sciencies, UNAM
+  * Duties included: Course design, course material creation ([lecture notes](https://github.com/dabnciencias/AM/blob/master/Notas/apuntes.pdf)), examination design
+
+* Linea Algebra Teacher (2020-2021, 2023)
+  * Faculty of Sciencies, UNAM
+  * Duties included: Course design, course material creation ([lecture notes](https://github.com/dabnciencias/AL/blob/master/Notas/apuntes.pdf)), examination design
+
 * Computational Algorithms Teacher (2022-2023)
   * Faculty of Sciencies, UNAM
   * Duties included: Course design, course material creation ([interactive notebooks](https://github.com/dabnciencias/AC) and [lecture recordings](https://www.youtube.com/playlist?list=PLtoBPDPjYod54trSakX0zW2AQPi9eevXm)), examination design
-
-* Linea Algebra Teacher (2020-2021)
-  * Faculty of Sciencies, UNAM
-  * Duties included: Course design, course material creation ([lecture notes](https://github.com/dabnciencias/AL/blob/master/Notas/apuntes.pdf)), examination design
 
 * Research Assistant (2018-2019)
   * Faculty of Sciencies, UNAM
