@@ -8,4 +8,4 @@ date: 2023-08-07
 location: "Mexico City, Mexico"
 ---
 
-I will be teaching Group Theory in the upcoming semester. I am currently working on course notes (in Spanish), which will be made publicly available shortly and rutinely updated via [this link](https://github.com/dabnciencias/AM/blob/main/Notas/notas.pdf).
+I taught an on-site course on Group Theory. Course notes (in Spanish) will be made publicly available via [this link](https://github.com/dabnciencias/AM/blob/main/Notas/notas.pdf) once they are ready.
