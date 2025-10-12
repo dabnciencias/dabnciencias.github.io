@@ -56,6 +56,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Organizing
+======
+* Co-organized the workshop and conference [_Purity, Approximation Theory and Spectra_](https://profs.scienze.univr.it/laking/Cetraro/html5up-strata/index.html) in Cetraro, Italy in May 2024.
   
 Service and leadership
 ======

@@ -15,3 +15,9 @@ I am currently doing research on cosilting mutation--a dual of infinite-dimensio
 I previously studied at UNAM (Mexico), where I [taught several undergraduate courses](https://dabnciencias.github.io/teaching) and led a team of undergraduates from the student project [Animathica](https://www.youtube.com/@animathica) to create [animated Linear Algebra videos](https://www.youtube.com/playlist?list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl) (with English subtitles, code and scripts [available as free software](https://github.com/animathica/alganim)).
 
 I am also a music enthusiast, and I write, record and produce [my own music](https://www.youtube.com/watch?v=6rM7Q_QrzQk).
+
+<div class="flags">
+
+<a href="https://info.flagcounter.com/FtGJ"><img src="https://s01.flagcounter.com/count2/FtGJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+</div>
