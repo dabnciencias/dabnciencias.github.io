@@ -19,7 +19,7 @@ Work experience
 ======
 * Teaching Assistant (2023-current)
   * Informatics Department, UniVr
-  * Courses: Homological Algebra (graduate course), Abstract Algebra, Linear Algebra, Galois Theory
+  * Courses: Homological Algebra (graduate course), Abstract Algebra, Linear Algebra
   * Duties: Support activities
 
 * University Mathematics Lecturer (2020-2023)
