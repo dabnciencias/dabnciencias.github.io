@@ -19,12 +19,12 @@ Work experience
 ======
 * Teaching Assistant (2023-current)
   * Department of Informatics, UniVr
-  * Courses: Homological Algebra (graduate course), Abstract Algebra, Linear Algebra
+  * Courses: Homological Algebra (graduate course), Analytical Mechanics (graduate course), Abstract Algebra, Linear Algebra, Geometry and Analysis
   * Duties: Support activities
 
 * University Mathematics Lecturer (2020-2023)
   * Faculty of Sciencies, UNAM
-  * Courses: [Modern Algebra I](https://dabnciencias.github.io/teaching/AM), [Computational Algorithms](https://dabnciencias.github.io/teaching/AC), [Linear Algebra](https://dabnciencias.github.io/teaching/AL)
+  * Courses: [Group Theory](https://dabnciencias.github.io/teaching/GT), [Computational Algorithms](https://dabnciencias.github.io/teaching/AC), [Linear Algebra](https://dabnciencias.github.io/teaching/AL)
   * Duties: On-site and online teaching, course design, course material creation, examination design
 
 Skills
