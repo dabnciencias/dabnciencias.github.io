@@ -63,6 +63,7 @@ Organizing
   
 Service and leadership
 ======
+* Volunteers at a day center for migrant children in Verona (Spring 2026-ongoing)
 * Volunteered leading a development team that created [educational Linear Algebra videos](https://www.youtube.com/watch?v=VY7ATrauc34&list=PL91agCMqt_mdAgHZkxyn-tscoNpu7ZHvl&pp=iAQB) using programmatical animation tools such as [Manim](https://www.manim.community/) and [Reanimate](https://reanimate.github.io/), working as creative director, writer, animator, narrator and editor (2021-2023)
 * Volunteered in popular education projects teaching middle school Mathematics to teenagers from underpriviledged backgrounds (2016-2017)
 * Volunteered in adult literacy campaigns in rural Mexico (2013-2015)
